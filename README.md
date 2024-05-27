@@ -1,5 +1,5 @@
 ## POP-BO
-Code for the submission "Principled Preferential Bayesian Optimization" to ICML '24.
+Code for the paper "Principled Preferential Bayesian Optimization" [arXiv](https://arxiv.org/pdf/2402.05367).
 POP-BO stands for 'Principled Optimistic Preferential Bayesian Optimization'. 
 
 ## Installation
